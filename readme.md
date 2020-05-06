@@ -1,3 +1,6 @@
+# WARNING: This repository is no longer maintained ⚠️
+This repository will not be updated. The repository will be kept available in read-only mode. Refer to https://github.com/IBM/reverse-image-search-gpu-studio for a similar example.
+
 # Feature Extraction and Reverse Image Search on Caltech-101 Dataset
 This notebook will guide you through the process of analyzing an image dataset using a pre-trained convolution network (VGG16) and extracting feature vectors for each image
 
